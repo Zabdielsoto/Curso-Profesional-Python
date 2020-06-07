@@ -1,0 +1,13 @@
+Paciente1:
+id = 1
+nombre = Zabdiel
+apellido = Soto
+edad = 23
+diabetico = Si
+
+Paciente2:
+id = 2
+nombre = Liliana
+apellido = Vera
+edad = 22
+diabetico = No
